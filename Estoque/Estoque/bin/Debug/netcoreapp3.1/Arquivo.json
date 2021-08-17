@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 4,
+    "Descricao": "RTX 3080",
+    "SerialNumber": "P66QHQA3DSJ4LEADPA2H",
+    "DataCadastro": "2021-08-17T00:44:48.0711625-03:00",
+    "Valor": 9000.0
+  },
+  {
+    "Id": 6,
+    "Descricao": "RTX 3060",
+    "SerialNumber": "TCXGYDO62V4XUV9ZMUBC",
+    "DataCadastro": "2021-08-17T00:54:52.889289-03:00",
+    "Valor": 5000.0
+  },
+  {
+    "Id": 7,
+    "Descricao": "RTX 3070",
+    "SerialNumber": "0GZS1TTXBVW2OKQGXD4W",
+    "DataCadastro": "2021-08-17T00:44:57.1203667-03:00",
+    "Valor": 7000.0
+  }
+]
