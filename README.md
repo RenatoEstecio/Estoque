@@ -1,5 +1,5 @@
 # Estoque
-Uma Aplicação API RESTful em ASP NET CORE.
+Uma Aplicação WEB-API RESTful em ASP NET CORE.
 
 Entrada: 
   - Requisições HTTP GET, DELETE, PATCH e POST.
