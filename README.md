@@ -12,3 +12,5 @@ Plataforma:
 
 Requisitos: 
   - Visual Studio Community 2019
+
+![enter image description here](https://raw.githubusercontent.com/RenatoEstecio/Estoque/main/Estoque/Screensho.jpg)
