@@ -2,7 +2,7 @@
 Uma Aplicação API RESTful em ASP NET CORE.
 
 Entrada: 
-  - Requisições HTTP GET.
+  - Requisições HTTP GET, DELETE, PATCH e POST.
 
 Tecnologia:
   - ASP NET Core 3.0
